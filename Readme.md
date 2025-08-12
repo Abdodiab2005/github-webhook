@@ -21,7 +21,7 @@ git clone https://github.com/Abdodiab2005/github-webhook.git
 cd github-webhook
 
 # 2. تثبيت الحزم
-npm install
+npm install```
 
 # هام
 لا تنسى تعديل SECRET واضافة مفتاح قوي خاص بك 
